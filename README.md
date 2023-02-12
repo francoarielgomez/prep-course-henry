@@ -1,2 +1,3 @@
-# prep-course-henry
-este es un repositorio de prueba del modulo 2 de prep course henry
+franco gomez
+este es un proyecto de prueba de como crear un repositorio y clonarlo en mi escritorio local
+
